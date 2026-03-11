@@ -18,3 +18,4 @@ var func = function xyz()
 }
 
 func()
+// xyz() here got an error 
