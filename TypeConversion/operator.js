@@ -29,4 +29,3 @@ console.log(`[] == ![] => `,[] == ![])
 console.log(`"10" == 10 => `, "10" == 10)
 console.log(`"abc" ==  10 => `, "abc" == 10)
 console.log("[] == [] => ",[] == []) // [] is reference type both have different reference 
-
