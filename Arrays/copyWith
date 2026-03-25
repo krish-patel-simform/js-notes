@@ -1,0 +1,15 @@
+let arr = ['q','w','e','r','t','y']
+
+arr.copyWithin(0,3,-1) 
+console.log(arr)
+
+ arr = [1, 2, 3, 4];
+arr.fill(0); 
+console.log(arr)
+// [0, 0, 0, 0]
+
+arr.fill(5, 1, 3); 
+// [0, 5, 5, 0]
+
+new Array(5).fill("x"); 
+// ["x", "x", "x", "x", "x"]
